@@ -68,7 +68,7 @@ This next room is the hardest room in the game. Walk right and mash away toriel�
 
 The next few rooms have random encounters. The monster type is random, and in most rooms it’s random whether you even get one or not. For the first 5 rooms you should pay attention to which monster it is. If it’s a single Whimsun or any type of Moldsmal, spare it. This saves time over fleeing.
 
-You can also kill a Whimsun to save some time. Killing a whimsun loses 3 seconds over sparing it, however it saves 3.8 seconds due to Flowey’s laughing animation at the end being shorter, so overall it saves 0.8 seconds optimally in English versions and 1.1 seconds in Japanese versions. This also has the side effect of making the encounter rates slightly lower in some rooms so that encounters become less common.
+In Neutral, you can kill a Whimsun to save some time. Do not do this in True Pacifist, as it aborts the Pacifist ending.
 
 In the first rock room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing Toriel’s texts. Read the sign, and then quickly hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd>. You can push the rock from the top by just holding <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd>. Reading the sign skips a phone call later in the room.
 
